@@ -9,7 +9,7 @@
 </a>
 
 # from generate function
-[![ci](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml/badge.svg)](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml?branch=ci-test)
+[![ci](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml/badge.svg?branch=ci-test)](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml?branch=ci-test)
 
 # moodle-tool_objectfs
 
