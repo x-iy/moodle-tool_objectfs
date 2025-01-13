@@ -1,5 +1,9 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=MOODLE_402_STABLE&label=ci)
 
+<a href="https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml?query=branch%3Aci-test">
+<img src="[https://github.com/catalyst/moodle-tool_excimer/workflows/ci/badge.svg?branch=MOODLE_35_STABLE](https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=ci-test&label=ci)">
+</a>
+
 # moodle-tool_objectfs
 
 A remote object storage file system for Moodle. Intended to provide a plug-in that can be installed and configured to work with any supported remote object storage solution.
