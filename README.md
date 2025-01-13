@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=ci-test&label=ci">
 </a>
 
+# from generate function
+[![ci](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml/badge.svg)](https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml)
+
 # moodle-tool_objectfs
 
 A remote object storage file system for Moodle. Intended to provide a plug-in that can be installed and configured to work with any supported remote object storage solution.
