@@ -1,6 +1,4 @@
-<a href="https://github.com/catalyst/moodle-tool_objectfs/actions?query=workflow%3A%22Run+all+tests%22">
-<img src="https://github.com/catalyst/moodle-tool_objectfs/workflows/Run%20all%20tests/badge.svg">
-</a>
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=MOODLE_402_STABLE&label=ci)
 
 # moodle-tool_objectfs
 
