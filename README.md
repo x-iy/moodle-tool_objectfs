@@ -1,6 +1,10 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=MOODLE_402_STABLE&label=ci)
 
 <a href="https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml?query=branch%3Aci-test">
+<img src="https://github.com/x-iy/moodle-tool_objectfs/workflows/ci/badge.svg?branch=ci-test">
+</a>
+
+<a href="https://github.com/x-iy/moodle-tool_objectfs/actions/workflows/ci.yml?query=branch%3Aci-test">
 <img src="https://img.shields.io/github/actions/workflow/status/x-iy/moodle-tool_objectfs/ci.yml?branch=ci-test&label=ci">
 </a>
 
